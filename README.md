@@ -1,31 +1,33 @@
-# API Times de Futebol
+# API Produtos Eletronicos
 Projeto exemplo para aula de desenvolvimento de sistemas backend utilizando dados em `mockup` JSON
 
-- times.json
+- produtos.json
 ```json
 [
-    {
-        "id": 1,
-        "nome": "São Paulo",
-        "vitorias": 5,
-        "empates": 2,
-        "derrotas": 3
-    },
-    {
-        "id": 2,
-        "nome": "Corinthians",
-        "vitorias": 3,
-        "empates": 2,
-        "derrotas": 5
-    },
-    {
-        "id": 3,
-        "nome": "Flamengo",
-        "vitorias": 2,
-        "empates": 7,
-        "derrotas": 1
-    }
-]
+  {
+    "id": 1,
+    "item": "Notebook Dell",
+    "local": "Laboratório 01",
+    "dataRegistro": "2026-09-01",
+    "valor": 3500.00,
+    "patrimonio": "PAT-00125"
+  },
+  {
+    "id": 2,
+    "item": "Projetor Epson",
+    "local": "Sala 03",
+    "dataRegistro": "2026-09-03",
+    "valor": 2800.00,
+    "patrimonio": "PAT-00126"
+  },
+  {
+    "id": 3,
+    "item": "Projetor ",
+    "local": "Sala 03",
+    "dataRegistro": "2026-09-03",
+    "valor": 2800.00,
+    "patrimonio": "PAT-00126"
+  }
 ```
 
 ## [Tutorial de como iniciar novo Backend](./tutorial_novo.md)
