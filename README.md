@@ -1,1 +1,2 @@
 # servidorAtividade
+![alt text](<Captura de tela 2026-09-29 101544.png>) ![alt text](<Captura de tela 2026-09-29 101720.png>) ![alt text](<Captura de tela 2026-09-29 101817.png>) ![alt text](<Captura de tela 2026-09-29 101835.png>) ![alt text](<Captura de tela 2026-09-29 102103.png>)
